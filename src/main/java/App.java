@@ -4,7 +4,7 @@ import geometricFigures.Triangle;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello World! Я Михаил");
+        System.out.println("Hello World! Я Михаил!");
 
         double sideOfSquare = 5; //Длина стороны квадрата
         System.out.println("Площадь квадрата: " + Square.squareOfSquare(sideOfSquare));
